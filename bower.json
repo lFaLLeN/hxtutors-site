@@ -1,0 +1,21 @@
+{
+  "name": "criando-um-site-responsivo-do-comeco-ao-fim",
+  "homepage": "https://github.com/lFaLLeN/hxtutors-site",
+  "authors": [
+    "lFaLLeN <junior-hackers@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
